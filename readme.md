@@ -72,11 +72,11 @@ prompt shaun
 
 The max execution time of a process before its run time is shown when it exits. Defaults to `5` seconds.
 
-### `PURE_GIT_DOWN_ARROW`
+### `SHAUN_GIT_DOWN_ARROW`
 
 Defines the git down arrow symbol. The default value is `⇣`.
 
-### `PURE_GIT_UP_ARROW`
+### `SHAUN_GIT_UP_ARROW`
 
 Defines the git up arrow symbol. The default value is `⇡`.
 
