@@ -96,7 +96,7 @@ prompt shaun
 
 ## Tips
 
-In the screenshot you see Shaun running in [HyperTerm](https://hyperterm.org) with the [hyperterm-snazzy](https://github.com/sindresorhus/hyperterm-snazzy) theme.
+In the screenshot you see Shaun running in [HyperTerm](https://hyper.is) with the [hyperterm-snazzy](https://github.com/sindresorhus/hyperterm-snazzy) theme.
 To have commands colorized as seen in the screenshot, install [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting).
 
 
